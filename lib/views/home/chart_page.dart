@@ -64,7 +64,9 @@ class ChartPageState extends ConsumerState<ChartPage> {
     ];
 
     return Scaffold(
-        appBar: AppBar(),
+        appBar: AppBar(
+          title:const Text("Chart Page"),
+        ),
         body: SingleChildScrollView(
             child: Column(
           children: [
