@@ -1,16 +1,11 @@
-# giftify
+# API TEST
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a minimalistic and very straightforward project. Here are the steps to running it:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository.
+The Flutter Framework will prompt you to download the required plugins, please do so.
+Then simply run it in debug mode or type in the terminal "flutter run".
